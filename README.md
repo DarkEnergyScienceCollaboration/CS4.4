@@ -1,4 +1,4 @@
-#  Validate input catalog properties
+#  Documentation and validation of all tools that deliver input catalogs
 
 Summary -- This task is, in particular, aimed at the non-galaxy catalogs and concerns e.g. shear
 catalogs, strong lensing images etc.
