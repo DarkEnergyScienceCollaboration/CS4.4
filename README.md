@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Validate input catalog properties
 
 Summary -- This task is, in particular, aimed at the non-galaxy catalogs and concerns e.g. shear
 catalogs, strong lensing images etc.
